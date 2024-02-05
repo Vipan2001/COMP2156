@@ -1,0 +1,21 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "comp2156 Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ci": "echo \"Error: no ci configured\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vipan2001/COMP2156.git"
+  },
+  "keywords": [],
+  "author": "Vipandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vipan2001/COMP2156/issues"
+  },
+  "homepage": "https://github.com/Vipan2001/COMP2156#readme"
+}
